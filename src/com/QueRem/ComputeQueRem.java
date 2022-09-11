@@ -6,10 +6,10 @@ public class ComputeQueRem {
 
 		int Dividend = 108, Divisor = 5;
 
-		int Quetient = Dividend / Divisor;
-		int Reminder = Dividend % Divisor;
+		int Quotient = Dividend / Divisor;
+		int Remainder = Dividend % Divisor;
 
-		System.out.println("Quetient is : " + Quetient);
-		System.out.println("Reminder is : " + Reminder);
+		System.out.println("Quotient  is : " + Quotient);
+		System.out.println("Remainder is : " + Remainder);
 	}
 }
